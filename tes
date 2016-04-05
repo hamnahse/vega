@@ -1,0 +1,15 @@
+[{"series":"Government","year":2000,"month":1,"count":430,"rate":2.1,"date":"2000-01-01T08:00:00.000Z"},
+{"series":"Mining and Extraction","year":2000,"month":1,"count":19,"rate":3.9,"date":"2000-01-01T08:00:00.000Z"},
+{"series":"Construction","year":2000,"month":1,"count":745,"rate":9.7,"date":"2000-01-01T08:00:00.000Z"},
+{"series":"Manufacturing","year":2000,"month":1,"count":734,"rate":3.6,"date":"2000-01-01T08:00:00.000Z"},
+{"series":"Wholesale and Retail Trade","year":2000,"month":1,"count":1000,"rate":5,"date":"2000-01-01T08:00:00.000Z"},
+{"series":"Transportation and Utilities","year":2003,"month":12,"count":267,"rate":5,"date":"2003-12-01T08:00:00.000Z"},
+{"series":"Information","year":2000,"month":1,"count":125,"rate":3.4,"date":"2000-01-01T08:00:00.000Z"},
+{"series":"Finance","year":2000,"month":1,"count":228,"rate":2.7,"date":"2000-01-01T08:00:00.000Z"},
+{"series":"Business services","year":2000,"month":2,"count":587,"rate":5.2,"date":"2000-02-01T08:00:00.000Z"},
+{"series":"Education and Health","year":2000,"month":1,"count":353,"rate":2.3,"date":"2000-01-01T08:00:00.000Z"},
+{"series":"Leisure and hospitality","year":2000,"month":10,"count":691,"rate":6.5,"date":"2000-10-01T07:00:00.000Z"},
+{"series":"Other","year":2000,"month":11,"count":217,"rate":3.8,"date":"2000-11-01T08:00:00.000Z"}, 
+{"series":"Agriculture","year":2000,"month":1,"count":154,"rate":10.3,"date":"2000-01-01T08:00:00.000Z"},
+{"series":"Self-employed","year":2001,"month":10,"count":247,"rate":2.3,"date":"2001-10-01T07:00:00.000Z"}
+]
